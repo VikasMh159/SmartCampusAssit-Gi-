@@ -1,0 +1,7 @@
+{
+  "name": "Smart Campus Assist",
+  "description": "An AI-powered campus life manager for college students, providing class schedules, exam reminders, and academic assistance in a friendly mobile-inspired interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
